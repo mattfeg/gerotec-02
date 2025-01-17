@@ -173,3 +173,4 @@ cython_debug/
 .DS_Store
 dados/DBC/
 dados/dados_sih.csv
+g2venv/
