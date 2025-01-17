@@ -1,7 +1,6 @@
 # gerotec-02
 
-TODO:
-1. Conversor de DBC para CSV
-2. Carregar dados das AIHs de CSV
-3. Carregar dados de georreferenciamento
-4. Criar grafo
+How to use:
+1. Run `make setup` to install dependencies
+2. Run `make sih-download` to download SIHSUS files
+3. Open `main.ipynb` to.
